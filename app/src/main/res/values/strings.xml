@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InstaLayout</string>
+    <string name="instagram_login">Instagram</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="phone_number_email_or_username">Phone number, email or username</string>
+</resources>
